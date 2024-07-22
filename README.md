@@ -1,1 +1,1 @@
-# comic-soporte.guthub.io
+# comic-soporte.github.io
